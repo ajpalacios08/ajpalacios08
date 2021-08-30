@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Allen Palacios LinkedIn" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn](https://www.linkedin.com/in/allen-palacios-73b677151/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][https://github.com/ajpalacios08]
+[<img align="left" alt="Allen Palacios LinkedIn" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 
 <br />
 
@@ -30,3 +30,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/allen-palacios-73b677151/
+[Github]: https://github.com/ajpalacios08
