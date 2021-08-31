@@ -1,6 +1,6 @@
 ### Hi there, I'm Allen Palacios 👋
 
-## I'm an Software Developer relatively new to the industry but excited to work with you!
+## I'm a Software Developer relatively new to the industry but excited to work with you!
 - 🔭 I recently graduated for FlatIron software engineering program.
 - 🌱 I’m currently trying to solidify the language and tools skills
 - 👯 I’m looking for an opportunity to show my chops!
